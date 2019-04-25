@@ -1,12 +1,12 @@
         {
             "protocol": "socks",
-            "port": 41577,
+            "port": 6666,
             "settings": {
                 "auth": "password",
                 "accounts": [
                     {
                         "user": "v2ray66.com",
-                        "pass": "Blue1983.com"
+                        "pass": "233blog.com"
                     }
                 ],
                 "udp": true,
