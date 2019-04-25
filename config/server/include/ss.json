@@ -1,9 +1,9 @@
         {
             "protocol": "shadowsocks",
-            "port": 40577,
+            "port": 6666,
             "settings": {
                 "method": "chacha20-ietf",
-                "password": "Blue1983.com",
+                "password": "233blog.com",
                 "network": "tcp,udp",
                 "level": 1,
                 "ota": false
