@@ -1,9 +1,9 @@
         {
             "protocol": "shadowsocks",
-            "port": 6666,
+            "port": 30577,
             "settings": {
                 "method": "chacha20-ietf",
-                "password": "233blog.com",
+                "password": "jjhyr1983@gmail.com",
                 "network": "tcp,udp",
                 "level": 1,
                 "ota": false
